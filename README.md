@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sangitaregmi
 - 👀 I’m interested in ...machine learning
 - 🌱 I’m currently learning ...ML, python, GIS map making, remote sensing
-- Looking for jobs
+- Looking for a job
 
 
 <!---
