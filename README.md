@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sangitaregmi
-- 👀 I’m interested in machine learning assisted GIS Technologies and computer vision
+- I’m interested in machine learning assisted GIS Technologies and computer vision
 - Looking for a job
 
 
